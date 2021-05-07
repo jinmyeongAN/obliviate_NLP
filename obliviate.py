@@ -1,15 +1,3 @@
-
-# coding: utf-8
-
-# In[1]:
-
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 24 11:15:44 2018
-@author: jbk48
-"""
-
 import os
 import tensorflow as tf
 import Bi_LSTM
