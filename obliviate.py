@@ -1,3 +1,6 @@
+# https://github.com/MSWon/Sentimental-Analysis, MSwon 님의 모델 학습법
+# https://github.com/e9t/nsmc, 네이버 리뷰 데이터
+
 import os
 import tensorflow as tf
 import Bi_LSTM
